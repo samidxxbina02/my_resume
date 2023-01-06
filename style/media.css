@@ -1,0 +1,21 @@
+@media only screen and (max-width: 992px) {
+  .container {
+    padding: 0 30px;
+  }
+
+  .popup {
+    display: none;
+  }
+
+  .header_left_side {
+    gap: 60px;
+  }
+
+  .header_left_side ul {
+    font-size: 15px;
+  }
+
+  footer .block {
+    grid-template-columns: 1fr;
+  }
+}
